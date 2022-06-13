@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">304427675669-o4998a4cnh5mo82p70l90tfraoi3pgc2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">304427675669</string>
+    <string name="google_api_key" translatable="false">AIzaSyCy-ybrhBs-TJo9BL8URJ3QATmQIWJAXp8</string>
+    <string name="google_app_id" translatable="false">1:304427675669:android:fcc6a5bcb74926b63e9e1c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCy-ybrhBs-TJo9BL8URJ3QATmQIWJAXp8</string>
+    <string name="google_storage_bucket" translatable="false">stay-happy-c570f.appspot.com</string>
+    <string name="project_id" translatable="false">stay-happy-c570f</string>
+</resources>

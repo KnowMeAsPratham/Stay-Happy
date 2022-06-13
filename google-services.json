@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304427675669",
+    "project_id": "stay-happy-c570f",
+    "storage_bucket": "stay-happy-c570f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304427675669:android:fcc6a5bcb74926b63e9e1c",
+        "android_client_info": {
+          "package_name": "com.miniproject.stay_happy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304427675669-o4998a4cnh5mo82p70l90tfraoi3pgc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy-ybrhBs-TJo9BL8URJ3QATmQIWJAXp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304427675669-o4998a4cnh5mo82p70l90tfraoi3pgc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
